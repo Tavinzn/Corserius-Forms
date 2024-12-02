@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|c:\\corserius-forms\\corserius-forms\\corserius_form\\corserius_form\\frmexe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmexe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\corserius_form\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\corserius_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECA0BF-9C91-4801-9398-70277669D377}|Corserius_form\\Corserius_form.csproj|solutionrelative:corserius_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSobre.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmSobre.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmSobre.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmSobre.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmSobre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:50.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmExe10.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe10.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe10.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe10.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:35.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmExe9.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe9.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe9.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe9.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:28.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmExe8.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe8.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe8.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe8.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:19.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmExe7.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe7.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe7.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe7.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:59:10.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmExe5.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe5.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe5.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe5.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:58:54.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmExe4.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe4.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe4.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe4.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:58:41.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmExe3.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe3.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe3.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe3.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:58:32.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmExe2.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe2.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe2.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe2.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:58:22.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmExe6.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe6.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmExe6.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmExe6.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmExe6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:33:00.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\frmMenu.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\frmMenu.cs [Design]",
+              "RelativeToolTip": "Corserius_form\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:36:51.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\Program.cs",
+              "RelativeDocumentMoniker": "Corserius_form\\Program.cs",
+              "ToolTip": "C:\\Corserius-Forms\\Corserius-forms\\Corserius_form\\Corserius_form\\Program.cs",
+              "RelativeToolTip": "Corserius_form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:03:58.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
